@@ -41,7 +41,7 @@ The script will display a list of all running processes, followed by the total n
 
 
 **Review the Output:**
-Review the Output:
+
 
 The script will first output a detailed list of running processes using the ps aux command.
 It will then count the total number of processes and display this count.
